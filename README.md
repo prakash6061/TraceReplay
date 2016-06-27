@@ -13,6 +13,8 @@ The source code for TraceReplay is located in ``src/applications/model`` and con
  - trace-replay-utility.h and
  - trace-replay-utility.cc
 
+ApTraceReplay is an application layer model to replay a MAC layer trace. It is currently under developement.
+
 Helpers
 *******
 The helper code for TraceReplay is located in ``src/applications/helper`` and consists of the following 2 files:
